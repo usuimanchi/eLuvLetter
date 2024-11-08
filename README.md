@@ -1,9 +1,8 @@
 # Tutorial of eLuvLetter usage
 [![license](https://img.shields.io/github/license/MuGemSt/eLuvLetter.svg)](https://github.com/MuGemSt/eLuvLetter/blob/master/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/154babf2-94f7-4abf-a333-6f3e150dcf09/deploy-status)](https://eluvletter.netlify.app)
-[![bilibili](https://img.shields.io/badge/bilibili-BV1DV4y1c77c-fc8bab.svg)](https://www.bilibili.com/video/BV1DV4y1c77c)
+[![bilibili](https://img.shields.io/badge/bilibili-BV1NADfYCE1V-fc8bab.svg)](https://www.bilibili.com/video/BV1NADfYCE1V)
 [![ms](https://img.shields.io/badge/ModelScope-eluvletter-624aff.svg)](https://www.modelscope.cn/studios/MuGemSt/eluvletter)
-[![cnblog](https://img.shields.io/badge/cnblog-16617269-075db3.svg)](https://www.cnblogs.com/MuGem/p/16617269.html)
 
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
