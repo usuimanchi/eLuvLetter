@@ -8,18 +8,17 @@
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
 ## Customization
-1. Download and install Git;
-2. Register a GitHub account, set SSH, and fork a copy of this repository to your own account;
+1. Download and install `Git`;
+2. Register a `GitHub` account, set SSH, and fork a copy of this repository to your own account;
 3. Clone the repository to local:
 ```bash
 git clone git@github.com:%YOUR_GITHUB_USERNAME%/eLuvLetter.git
 cd eLuvLetter
 ```
 
-4. Go to the `./font/` directory and customize `content.json` by [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/MuGemSt/eluvletter);
-5. Sync the modified local code to your GitHub account:
+4. Customize `./font/content.json` by the [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/MuGemSt/eluvletter);
+5. Sync the modified local code to your `GitHub` account:
 ```bash
-cd eLuvLetter
 git add .
 git commit -a
 # press i
