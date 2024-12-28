@@ -1,9 +1,10 @@
 # Tutorial of eLuvLetter usage
-[![license](https://img.shields.io/github/license/MuGemSt/eLuvLetter.svg)](https://github.com/MuGemSt/eLuvLetter/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Genius-Society/eLuvLetter.svg)](https://github.com/Genius-Society/eLuvLetter/blob/master/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/154babf2-94f7-4abf-a333-6f3e150dcf09/deploy-status)](https://eluvletter.netlify.app)
 [![bilibili](https://img.shields.io/badge/bilibili-BV1NADfYCE1V-fc8bab.svg)](https://www.bilibili.com/video/BV1NADfYCE1V)
-[![ms](https://img.shields.io/badge/ModelScope-eluvletter-624aff.svg)](https://www.modelscope.cn/studios/MuGemSt/eluvletter)
-[![cnblogs](https://img.shields.io/badge/cnblogs-16617269-075db3.svg)](https://www.cnblogs.com/MuGem/p/16617269.html)
+[![ms](https://img.shields.io/badge/ModelScope-eluvletter-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/eluvletter)
+[![hf](https://img.shields.io/badge/HuggingFace-eluvletter-ffd21e.svg)](https://huggingface.co/spaces/Genius-Society/eluvletter)
+[![cnblogs](https://img.shields.io/badge/cnblogs-16617269-075db3.svg)](https://www.cnblogs.com/Genius-Society/p/16617269.html)
 
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
@@ -16,7 +17,7 @@ git clone git@github.com:%YOUR_GITHUB_USERNAME%/eLuvLetter.git
 cd eLuvLetter
 ```
 
-4. Customize `./font/content.json` by the [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/MuGemSt/eluvletter);
+4. Customize `./font/content.json` by the [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/Genius-Society/eluvletter);
 5. Sync the modified local code to your `GitHub` account:
 ```bash
 git add .
