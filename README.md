@@ -9,24 +9,10 @@
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
 ## Customization
-1. Download and install `Git`;
-2. Register a `GitHub` account, set SSH, and fork a copy of this repository to your own account;
-3. Clone the repository to local:
-```bash
-git clone git@github.com:%YOUR_GITHUB_USERNAME%/eLuvLetter.git
-cd eLuvLetter
-```
-
-4. Customize `./font/content.json` by the [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/Genius-Society/eluvletter);
-5. Sync the modified local code to your `GitHub` account:
-```bash
-git add .
-git commit -a
-# press i
-# input any description
-# ESC :wq! Enter
-git push
-```
+1. Register a `GitHub` account;
+2. Fork a copy of this repo to your own `GitHub` account;
+3. Customize `./font/content.json` in your forked repo online by the [eLuvLetter JSON Generator](https://www.modelscope.cn/studios/Genius-Society/eluvletter);
+4. Commit the modification to your forked repo.
 
 ## Deployment on Netlify
 1. Enter [Netlify](https://app.netlify.com) official website;
@@ -34,6 +20,6 @@ git push
 3. Click `GitHub`, enter the keyword `eLuvLetter` in the search box to find the previously forked repo, and select it;
 4. Click `Deploy site` to jump into `Site overview` page automatically, click `Site settings`;
 5. Click `Change site name` under `Site information`, modify second-level domain name not conflict to others, and click `Save`;
-6. After the deployment, we can visit `https://%PROJECT_NAME%.netlify.app` to broswe your page (`%PROJECT_NAME%` is the second-level domain name customized just now)
+6. After the deployment, we can visit `https://%PROJECT_NAME%.netlify.app` to broswe your page, where `%PROJECT_NAME%` is the second-level domain name customized by you.
 
 **Good luck~💖**
