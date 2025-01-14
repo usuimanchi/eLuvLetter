@@ -8,7 +8,7 @@
 
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
-![](https://i2.hdslb.com/bfs/archive/15697cf5676c81270f7ba1c536d9834b8313a5a2.png)
+[![](https://i2.hdslb.com/bfs/archive/15697cf5676c81270f7ba1c536d9834b8313a5a2.png)](https://eluvletter.netlify.app)
 
 ## Customization
 1. Register a `GitHub` account;
