@@ -4,7 +4,7 @@
 [![hf](https://img.shields.io/badge/huggingface-eluvletter-ffd21e.svg)](https://huggingface.co/spaces/Genius-Society/eluvletter)
 [![ms](https://img.shields.io/badge/modelscope-eluvletter-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/eluvletter)
 [![cnblogs](https://img.shields.io/badge/cnblogs-16617269-075db3.svg)](https://www.cnblogs.com/Genius-Society/p/16617269.html)
-[![bilibili](https://img.shields.io/badge/bilibili-BV1hergYREEG-fc8bab.svg)](https://www.bilibili.com/video/BV1hergYREEG)
+[![bili](https://img.shields.io/badge/bilibili-BV1hergYREEG-fc8bab.svg)](https://www.bilibili.com/video/BV1hergYREEG)
 
 The heartbeat animation indicates that the BGM is loading, please be patient and wait util the envelope appears.
 
