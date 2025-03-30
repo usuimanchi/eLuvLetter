@@ -1,5 +1,5 @@
 # Tutorial of eLuvLetter usage
-[![license](https://img.shields.io/github/license/Genius-Society/eLuvLetter.svg)](https://github.com/Genius-Society/eLuvLetter/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/Genius-Society/eLuvLetter.svg)](https://github.com/Genius-Society/eLuvLetter/blob/main/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/154babf2-94f7-4abf-a333-6f3e150dcf09/deploy-status)](https://eluvletter.netlify.app)
 [![hf](https://img.shields.io/badge/huggingface-eluvletter-ffd21e.svg)](https://huggingface.co/spaces/Genius-Society/eluvletter)
 [![ms](https://img.shields.io/badge/modelscope-eluvletter-624aff.svg)](https://www.modelscope.cn/studios/Genius-Society/eluvletter)
